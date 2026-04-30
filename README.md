@@ -4,6 +4,7 @@ This is the repo to replicate the results in:
 Navelski, Joseph and Badruddoza, Syed and J. McCluskey, Jill and G. Pascual, Francis, Applied Network Science, 2026
 https://link.springer.com/article/10.1007/s41109-025-00759-y#citeas
 
+[Supplementary Materials (Springer PDF)](https://static-content.springer.com/esm/art%3A10.1007%2Fs41109-025-00759-y/MediaObjects/41109_2025_759_MOESM1_ESM.pdf)
 
 Users are encuraged to reach out to the corresponding author if they would like to use the code.
 
