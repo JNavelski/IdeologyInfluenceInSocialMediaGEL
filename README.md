@@ -2,6 +2,8 @@ This is the repo to replicate the results in:
 
 # Estimating ideology and influence in social media networks: opinions on genome editing of livestock
 Navelski, Joseph and Badruddoza, Syed and J. McCluskey, Jill and G. Pascual, Francis, Applied Network Science, 2026
+https://link.springer.com/article/10.1007/s41109-025-00759-y#citeas
+
 
 Users are encuraged to reach out to the corresponding author if they would like to use the code.
 
